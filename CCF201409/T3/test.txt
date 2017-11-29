@@ -1,0 +1,16 @@
+Hello
+0
+5
+HelloWorld
+HiHiHelloHiHi
+GrepIsAGreatTool
+HELLO
+HELLOisNOTHello
+Hello
+1
+5
+HelloWorld
+HiHiHelloHiHi
+GrepIsAGreatTool
+HELLO
+HELLOisNOTHello
