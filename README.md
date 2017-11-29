@@ -12,4 +12,4 @@ China Computer Federation(CCF) Certification (CAP) Solutions
 
 ##### 程序写于2016.04-2016.07, 首次上传于2017.11.29
 
-                                          ***限于版权, 题目暂时没有写出来，只有题解***
+                                          ***限于版权, 题目未写出，仅题解***
